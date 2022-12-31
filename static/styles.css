@@ -67,9 +67,9 @@ h3::before {
 }
 
 .navbar {
-    position: fixed !important;
-    top: 0px;
     width: 940px;
+    background-color: #0077B6;
+    top: 0px;
     margin:0 auto;
 }
 
